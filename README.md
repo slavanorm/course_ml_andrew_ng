@@ -1,5 +1,5 @@
-this code is only for information purposes.
-please do not use this as solutions.
+!this code is only for information purposes.  
+!please do not use this as solutions.  
 
 requirements:
 * octave or
